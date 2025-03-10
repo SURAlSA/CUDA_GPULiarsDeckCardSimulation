@@ -37,7 +37,8 @@ The program will output statistical data summarizing the results of the simulati
 - **Zane Miller (Surai)** - Creator & Maintainer  
   [GitHub Profile](https://github.com/SURAlSA)
 
-## Inspiration
 This program was inspired by some code that I was sent by **James Young**. I took inspiration from his code and implemented optimisations such as using Fisher-Yates Shuffle for Card Placement, Bitmask Representation for Deck, and Atomic Operations for Result Storage. Check out his work at his GitHub profile.
+
+## Inspiration
 - **James Young** - Inspiration
   [GitHub Profile](https://github.com/jamesy0ung)
