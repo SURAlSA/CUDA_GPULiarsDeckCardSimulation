@@ -1,0 +1,8 @@
+[2025-03-10 19:05:15]Project GPULiarsDeckCardSimulation_Bombo-v1.0.0 created.
+[2025-03-10 19:12:01]Simulate file created.
+[2025-03-10 19:16:42]Project loaded.
+[2025-03-10 19:23:34]Variable DECK_SIZE created in Simulate.
+[2025-03-10 19:25:15]Variable TOTAL_VALID_CARDS created in Simulate.
+[2025-03-10 19:25:49]Variable HAND_SIZE created in Simulate.
+[2025-03-10 19:26:42]Variable POSSIBLE_OUTCOMES created in Simulate.
+[2025-03-10 19:29:09]Function simulateCardDraws created in Simulate.
